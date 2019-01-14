@@ -31,3 +31,6 @@ p {font-size: 20px;
     border:none;
     text-decoration:none;
     text-align:center;}
+
+.tab {
+    text-indent: 40px; }
